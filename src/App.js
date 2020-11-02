@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import AddPizzaForm from "./components/AddPizzaForm";
 import PizzaList from "./components/PizzaList";
 
